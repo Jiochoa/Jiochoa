@@ -1,11 +1,17 @@
 ### Hi therre 👋
 
-Work in Progress....
-### hey there 
+Work in Progress.... Dont read it yet!
+## About Me
 
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+### 🔭 I’m currently working on ...
+Currently I'm working on a Mobile game about a cat. Its being develoed on the Unity engine using C#. 
+
+### 🌱 I’m currently learning ...
+
+### - 📫 How to reach me: ...
+
+
+
 
 <a href="https://twitter.com/Joch900">
   <img align="left" alt="Juan Ochoa | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -62,9 +68,6 @@ graph LR
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Jiochoa&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiochoa&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jiochoa&theme=dark)](https://git.io/streak-stats)
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+## About Me
 
 [Jiochoa](https://github.com/Jiochoa/Jiochoa)
