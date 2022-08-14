@@ -4,7 +4,7 @@ Work in Progress.... Dont read it yet!
 ## About Me
 
 ### 🔭 I’m currently working on ...
-Currently I'm working on a Mobile game about a cat. Its being develoed on the Unity engine using C#. 
+A lot of things hold my interest so Currently I'm working on a Mobile game about a cat. Its being develoed on the Unity engine using C#. 
 
 ### 🌱 I’m currently learning ...
 
