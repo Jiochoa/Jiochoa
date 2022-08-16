@@ -58,7 +58,7 @@ Problem: not all extensions are 3 letters long, so you're asking to solve a prob
 ##### Using image search with a specific picture in mind
 ??? Image search the feature you want to implement (Example: AlertDialog)
 
-
+#### Creating an SSH key (personal password that will identify you to GitHub, Heroku, Netlify)
 
 
 
