@@ -60,7 +60,7 @@ Problem: not all extensions are 3 letters long, so you're asking to solve a prob
 
 #### Creating an SSH key (personal password that will identify you to GitHub, Heroku, Netlify)
 
-
+d
 
 
 [^1]: Medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603
