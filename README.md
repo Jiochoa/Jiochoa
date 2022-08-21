@@ -1,6 +1,7 @@
 ### Hi therre 👋
 
-Work in Progress.... Dont read it yet!
+Work in Progress....
+## Don't read it yet!!
 ## About Me
 
 ### 🔭 I’m currently working on ...
