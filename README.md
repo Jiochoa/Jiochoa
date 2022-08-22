@@ -1,11 +1,11 @@
 ### Hi therre 👋
 
 Work in Progress....
-## Don't read it yet!!
+# Don't read it yet!!
 ## About Me
 
 ### 🔭 I’m currently working on ...
-A lot of things hold ==my interest== so Currently I'm working on a Mobile game about a cat. Its being develoed on the Unity engine using C#. 
+A lot of things hold ==my interest== so Currently I'm working on a Mobile game about a cat. Its being developed on the Unity engine using C#. 
 
 ### 🌱 I’m currently learning ...
 
