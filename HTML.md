@@ -26,7 +26,7 @@ For **Ordered List** use `<ol>` with the **List Items** as `<li>`
 	<li>element 2</li>
 </ol>
 
-### Links and Images
+### Links
 To make a link you need the **Anchor flag** `</a>` 
 #### input
 ```html
@@ -53,6 +53,14 @@ Absolute take you to a diferent page but relative take you to a different part o
 
 <a href="obsidian://open?vault=Jiochoa&file=LeetCode%20Examples">Click here to go to LeetCode Examples.md</a>
 
+### Images
+To make an image, you need the `<img>` tag (no crossing tag) 
 
+#### input
+```html
+<img src="https://www.theodinproject.com/mstile-310x310.png" style="width:100px;height:100px;">
+```
 
+#### output
+<img src="https://www.theodinproject.com/mstile-310x310.png" style="width:100px;height:100px;">
 
