@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Juan Ochoa 👋</h1>
+<h1 align="center">Hi, I'm Juan 👋</h1>
 
 <p align="center">
   Full-stack developer working across Java, Python, and JavaScript — currently building a mobile game in Unity/C# and deepening my full-stack skills through <a href="https://www.theodinproject.com/">The Odin Project</a>.
@@ -57,10 +57,10 @@ Java, Python, Spring, Node.js, and containerized deployments with Docker/Kuberne
 
 <p align="center">
   <a href="https://twitter.com/Joch900">
-    <img alt="Juan Ochoa on Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/juan-ochoa-55a15b112/">
-    <img alt="Juan Ochoa on LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 </p>
